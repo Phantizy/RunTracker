@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RunTracker</string>
+    <string name="stop">Stop</string>
+    <string name="start">start</string>
+</resources>
